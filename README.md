@@ -1,1 +1,0 @@
-# DiasNurbergenov_Python4
